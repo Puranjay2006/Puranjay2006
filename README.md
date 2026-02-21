@@ -37,11 +37,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
+  <a href="https://github.com/Puranjay2006">
+    <img src="https://github-readme-stats.vercel.app/api?username=Puranjay2006&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
   </a>
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+  <a href="https://github.com/Puranjay2006">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puranjay2006&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
   </a>
 </p>
 
