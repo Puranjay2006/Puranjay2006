@@ -59,7 +59,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/puranjay-gambhir-a342221bb/" target="_blank">
