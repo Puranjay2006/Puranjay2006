@@ -27,10 +27,27 @@
 
 ## 🚀 Featured Projects
 
-* **Civic Connect** - An AI-powered civic engagement platform built with TypeScript, React, and the Gemini API that auto-categorizes civic issues and visualizes them in real-time.
-* **Route Continuity Gap Detector** - A geospatial quality assurance tool utilizing Python, Streamlit, and an Isolation Forest ML model to automate the detection of endpoint gaps in road networks.
-* **YATREE** - An application co-developed to reach the Grand Finale of a national innovation competition.
-* **Flying High** - Led the project to create the first digital magazine for my high school.
+## Projects
+
+### Civic Connect
+* **Overview:** An AI-powered civic platform that auto-categorizes issues using Gemini AI and visualizes them live via Google Maps API.
+* **Tech Stack:** TypeScript, React, Vite, HTML5, CSS3, Gemini API, Google Maps API
+* **Key Highlight:** Delivered user auth, issue tracking, an interactive map, and admin dashboards; prototyped and shipped end-to-end within a 48-hour hackathon sprint, winning the Youth Solves for India Contest.
+
+### Route Continuity Gap Detector
+* **Overview:** A geospatial Quality Assurance tool detecting road-network endpoint gaps via Shapely geometry checks and an unsupervised ML model (Isolation Forest), eliminating manual map inspection.
+* **Tech Stack:** Python, Streamlit, Shapely, scikit-learn (Isolation Forest), Folium
+* **Key Highlight:** Generated automated error reports and interactive map visualizations via Folium and Streamlit for instant road network auditing.
+
+### noSo Company Platform
+* **Overview:** A full-stack web app featuring secure auth, a bookings and payments system, and file handling.
+* **Tech Stack:** React, TypeScript, Vite, Python, FastAPI, MongoDB
+* **Key Highlight:** Engineered the frontend architecture, delivering a production-ready UI and optimizing the user experience across complex administrative and partner dashboards.
+
+### Capital Media Partners Website
+* **Overview:** A responsive company website platform serving 300+ NZ businesses for customer discovery and targeted client advertising.
+* **Tech Stack:** HTML5, CSS3 (Tailwind), JavaScript, Python
+* **Key Highlight:** Developed reusable components and integrated secure booking modals, automated Excel data handling, and cookie consent compliance.
 
 ---
 
