@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Puranjay Gambhir 👋</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Puranjay Gambhir</h1>
+<h3 align="center">Computer Science Student | Full-Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * 🎓 Pursuing a Bachelor of Science in Computer Science at the University of Auckland.
 * 💼 Currently working as a Digital & Design Executive, developing full-stack web solutions and internal tools.
@@ -25,9 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-## Projects
+## Featured Projects
 
 ### Civic Connect
 * **Overview:** An AI-powered civic platform that auto-categorizes issues using Gemini AI and visualizes them live via Google Maps API.
@@ -51,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Puranjay2006">
